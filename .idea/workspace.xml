@@ -34,10 +34,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/main/java/simpleLib/annotations" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/src/main/java/simpleLib/annotations" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -61,11 +69,26 @@
       <option name="presentableId" value="Default" />
       <updated>1604958868800</updated>
       <workItem from="1604958872096" duration="6000" />
-      <workItem from="1604958930944" duration="38000" />
+      <workItem from="1604958930944" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="-1044" key="#Project_Structure" timestamp="1604960186350">
+      <screen x="-108" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="168" y="-1044" key="#Project_Structure/0.0.1440.900/-108.-1080.1920.1080@-108.-1080.1920.1080" timestamp="1604960186350" />
+    <state x="207" y="30" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1604959017032" />
+    <state x="183" y="111" width="1073" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604959014386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="183" y="111" width="1073" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604959014386" />
+    <state x="456" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604959008779">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="456" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1604959008779" />
   </component>
 </project>
